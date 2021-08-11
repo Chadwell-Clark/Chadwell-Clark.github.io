@@ -188,6 +188,13 @@ p {
   padding-right: 70px;
 }
 
+.tm-col-right-logo {
+  width: 50%;
+  height: 100%;
+  padding-left: 110px;
+  padding-right: 40px;
+}
+
 .tm-content {
   max-width: 660px;
   margin-top: 50px;
