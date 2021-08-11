@@ -24,12 +24,12 @@ https://templatemo.com/tm-550-diagoona
     <!-- <div class="tm-container">         -->
         <div>
             <div class="tm-row pt-4 justify-content-end">
-                <div class="tm-col-right">
+                <div class="tm-col-right-logo">
                     <div class="tm-site-header media">
                         <i class="fas fa-microchip fa-3x mt-1 tm-logo"></i>
                         <div class="media-body">
                             <h1 class="tm-sitename ">CHAD[well] CLARK</h1>
-                            <p class="tm-slogon">Full Stack Development
+                            <p class="tm-slogon">Software Development
                     </div>
                 </div>
                 <div class="tm-col-right">
